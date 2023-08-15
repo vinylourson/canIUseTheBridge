@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "https://opendata.bordeaux-metropole.fr",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}

@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+
+thead {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0 1em 0 1em;
+    font-weight: bold;
+    font-size: 2em;
+    height: 2em !important;
+}
+
+th.mat-sort-header-sorted {
+    color: black;
+  }
+
+tr{
+    background-color: #f2f2f2;
+    color: black;
+}
